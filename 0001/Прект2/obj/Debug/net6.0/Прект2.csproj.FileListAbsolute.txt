@@ -1,0 +1,15 @@
+C:\Users\Valentin\Desktop\26.02\0001\Прект2\bin\Debug\net6.0\Прект2.exe
+C:\Users\Valentin\Desktop\26.02\0001\Прект2\bin\Debug\net6.0\Прект2.deps.json
+C:\Users\Valentin\Desktop\26.02\0001\Прект2\bin\Debug\net6.0\Прект2.runtimeconfig.json
+C:\Users\Valentin\Desktop\26.02\0001\Прект2\bin\Debug\net6.0\Прект2.dll
+C:\Users\Valentin\Desktop\26.02\0001\Прект2\bin\Debug\net6.0\Прект2.pdb
+C:\Users\Valentin\Desktop\26.02\0001\Прект2\obj\Debug\net6.0\Прект2.csproj.AssemblyReference.cache
+C:\Users\Valentin\Desktop\26.02\0001\Прект2\obj\Debug\net6.0\Прект2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\26.02\0001\Прект2\obj\Debug\net6.0\Прект2.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\26.02\0001\Прект2\obj\Debug\net6.0\Прект2.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\26.02\0001\Прект2\obj\Debug\net6.0\Прект2.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\26.02\0001\Прект2\obj\Debug\net6.0\Прект2.dll
+C:\Users\Valentin\Desktop\26.02\0001\Прект2\obj\Debug\net6.0\refint\Прект2.dll
+C:\Users\Valentin\Desktop\26.02\0001\Прект2\obj\Debug\net6.0\Прект2.pdb
+C:\Users\Valentin\Desktop\26.02\0001\Прект2\obj\Debug\net6.0\Прект2.genruntimeconfig.cache
+C:\Users\Valentin\Desktop\26.02\0001\Прект2\obj\Debug\net6.0\ref\Прект2.dll
