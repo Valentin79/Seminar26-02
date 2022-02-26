@@ -1,0 +1,15 @@
+C:\Users\Valentin\Desktop\26.02\0001\Проект3\obj\Debug\net6.0\Проект3.csproj.AssemblyReference.cache
+C:\Users\Valentin\Desktop\26.02\0001\Проект3\obj\Debug\net6.0\Проект3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\26.02\0001\Проект3\obj\Debug\net6.0\Проект3.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\26.02\0001\Проект3\obj\Debug\net6.0\Проект3.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\26.02\0001\Проект3\obj\Debug\net6.0\Проект3.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\26.02\0001\Проект3\bin\Debug\net6.0\Проект3.exe
+C:\Users\Valentin\Desktop\26.02\0001\Проект3\bin\Debug\net6.0\Проект3.deps.json
+C:\Users\Valentin\Desktop\26.02\0001\Проект3\bin\Debug\net6.0\Проект3.runtimeconfig.json
+C:\Users\Valentin\Desktop\26.02\0001\Проект3\bin\Debug\net6.0\Проект3.dll
+C:\Users\Valentin\Desktop\26.02\0001\Проект3\bin\Debug\net6.0\Проект3.pdb
+C:\Users\Valentin\Desktop\26.02\0001\Проект3\obj\Debug\net6.0\Проект3.dll
+C:\Users\Valentin\Desktop\26.02\0001\Проект3\obj\Debug\net6.0\refint\Проект3.dll
+C:\Users\Valentin\Desktop\26.02\0001\Проект3\obj\Debug\net6.0\Проект3.pdb
+C:\Users\Valentin\Desktop\26.02\0001\Проект3\obj\Debug\net6.0\Проект3.genruntimeconfig.cache
+C:\Users\Valentin\Desktop\26.02\0001\Проект3\obj\Debug\net6.0\ref\Проект3.dll
